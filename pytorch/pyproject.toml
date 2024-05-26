@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bigram"
+name = "pytorch"
 version = "0.1.0"
 description = ""
 authors = ["Jeremy E Kozdon <jeremy@kozdon.net>"]
@@ -7,7 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-torch = "^2.3.0"
 numpy = "^1.26.4"
 matplotlib = "^3.9.0"
 
